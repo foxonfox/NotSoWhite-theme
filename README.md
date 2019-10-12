@@ -1,1 +1,1 @@
-# Titanium Theme
+# NotSoWhite Theme
