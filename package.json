@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-titanium",
+  "name": "NotSoWhite-theme",
   "version": "1.2.2",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sn-extensions/titanium-theme.git"
+    "url": "git://github.com/foxonfox/NotSoWhite-theme.git"
   }
 }
