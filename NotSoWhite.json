@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.foxonfox.notsowhite.theme",
+  "name": "NotSoWhite",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.2",
+  "description": "Light on the eyes, heavy on the spirit",
+  "url": "https://cdn.jsdelivr.net/gh/foxonfox/NotSoWhite-theme@master/dist/dist.css",
+  "download_url": "https://github.com/foxonfox/NotSoWhite-theme/archive/1.2.2.zip",
+  "latest_url": "https://listed.to/p/dl62WFU3rt",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#c9cccf",
+      "foreground_color": "#c9cccf",
+      "border_color": "#c9cccf"
+      },
+      "statusBar": "dark-content"
+}
